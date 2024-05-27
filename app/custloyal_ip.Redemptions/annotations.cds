@@ -1,0 +1,1 @@
+using custloyal_ipSrv as service from '../../srv/service';
